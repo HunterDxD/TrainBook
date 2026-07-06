@@ -16,6 +16,4 @@ Erlaube TrainBook Mitteilungen unter *iOS-Einstellungen → Mitteilungen → Tra
 ## Kontakt
 
 Fragen, Fehler oder Feature-Wünsche:
-
-- E-Mail: [jan.m.d.schneider@googlemail.com](mailto:jan.m.d.schneider@googlemail.com)
 - GitHub: [Issue erstellen](https://github.com/HunterDxD/TrainBook/issues)
