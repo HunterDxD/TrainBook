@@ -32,7 +32,3 @@ Es werden keine Daten an den Entwickler oder an Dritte übertragen. Die App enth
 ## Datenexport und Löschung
 
 Du kannst deine Daten jederzeit in den App-Einstellungen exportieren. Durch Löschen der App (und der iCloud-Daten in den iOS-Einstellungen unter *Apple-ID → iCloud → Speicher verwalten*) werden alle Daten vollständig entfernt.
-
-## Kontakt
-
-Bei Fragen zum Datenschutz: [jan.m.d.schneider@googlemail.com](mailto:jan.m.d.schneider@googlemail.com)
